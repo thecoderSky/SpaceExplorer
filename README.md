@@ -51,4 +51,3 @@ java -jar space-explorer-1.0-SNAPSHOT.jar
 
 ## 📄 License
 MIT License
-# SpaceExplorer
