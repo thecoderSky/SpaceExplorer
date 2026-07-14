@@ -43,6 +43,8 @@ java -jar space-explorer-1.0-SNAPSHOT.jar
 🔗 URL     : https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4
 📖 Info    : As the crew of Artemis II travelled towards the Moon...
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-09 190525" src="https://github.com/user-attachments/assets/1cf26873-7aa3-4107-8bfa-672c6b89889f" />
+
 ## 🗺️ Roadmap
 - [ ] Mars Rover photos
 - [ ] Asteroid tracker
